@@ -19,4 +19,14 @@ Here are some ideas to get you started:
 
 E-mail: zheludkov.egor@mail.ru
 
-Youtube: https://www.youtube.com/c/%D0%98%D0%BB%D0%B8%D1%82%D0%BD%D1%8B%D0%B9%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82
+<p align="center"> 
+  <a href="https://vk.com/zheludkovegor">
+    <img src="https://github.com/egorozh/egorozh/blob/main/Resources/vk.svg" alt="VK" style="vertical-align:top; margin:4px" height=32>
+  </a>
+
+
+ <a href="https://www.youtube.com/c/%D0%98%D0%BB%D0%B8%D1%82%D0%BD%D1%8B%D0%B9%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82/">
+    <img src="https://github.com/egorozh/egorozh/blob/main/Resources/youtube.svg" alt="Youtube" style="vertical-align:top; margin:4px"  height=32>
+  </a>
+
+</p>
