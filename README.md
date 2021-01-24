@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=egorozh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+E-mail: zheludkov.egor@mail.ru
+Youtube: https://www.youtube.com/c/%D0%98%D0%BB%D0%B8%D1%82%D0%BD%D1%8B%D0%B9%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82
