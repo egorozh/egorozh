@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=egorozh&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=egorozh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 E-mail: zheludkov.egor@mail.ru
 
