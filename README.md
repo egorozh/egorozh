@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=egorozh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-E-mail: zheludkov.egor@mail.ru
+E-mail: egorozh.dev@gmail.com
 
 <p align="center"> 
   <a href="https://vk.com/zheludkovegor">
