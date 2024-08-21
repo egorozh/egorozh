@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everyone
+
+I am the developer of the [XFiler](https://x-filer.com) cross-platform file-manager
+
+The rest can be found on my [website](https://egorozh.ru)
 
 <!--
 **egorozh/egorozh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +23,3 @@ Here are some ideas to get you started:
 
 E-mail: egorozh.dev@gmail.com
 
-<p align="center"> 
-  <a href="https://vk.com/zheludkovegor">
-    <img src="https://github.com/egorozh/egorozh/blob/main/Resources/vk.svg" alt="VK" style="vertical-align:top; margin:4px" height=32>
-  </a>
-
-
- <a href="https://www.youtube.com/c/EgorozhCoding">
-    <img src="https://github.com/egorozh/egorozh/blob/main/Resources/youtube.svg" alt="Youtube" style="vertical-align:top; margin:4px"  height=32>
-  </a>
-
-</p>
