@@ -1,6 +1,6 @@
 ### Hello everyone
 
-I am the developer of the [XFiler](https://x-filer.com) cross-platform file-manager
+I am Founder [Ovdix](https://ovdix.com/)
 
 The rest can be found on my [website](https://egorozh.ru)
 
