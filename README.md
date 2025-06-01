@@ -2,7 +2,7 @@
 
 I am Founder [Ovdix](https://ovdix.com/)
 
-The rest can be found on my [website](https://egorozh.ru)
+The rest can be found on my [website](https://egor.website/)
 
 <!--
 **egorozh/egorozh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
